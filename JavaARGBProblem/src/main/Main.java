@@ -1,13 +1,12 @@
 package main;
 
 import java.awt.image.BufferedImage;
-import java.awt.image.DataBuffer;
 import java.io.File;
 
 import javax.imageio.ImageIO;
 
 public class Main {
-
+//
 	public static void main(String args[]) throws Exception{
 		
 		String srcFileName = "001";
